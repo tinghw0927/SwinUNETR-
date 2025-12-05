@@ -54,7 +54,7 @@ pip install matplotlib
 
 ## 🎯 模型架構
 - **模型**: SwinUNETR
-- **輸入大小**: 96×96×96 (或你實際的大小)
+- **輸入大小**: 128*128*128
 - **類別數**: 7類（LV, RV, LA, RA, LAD, LCX, RCA）
 - **預訓練權重**: 使用MONAI官方預訓練權重
 
@@ -64,19 +64,15 @@ pip install matplotlib
 3. 滑動視窗推論：處理完整3D影像
 
 ## 📝 訓練參數
-- Batch Size: [你的batch size]
-- Learning Rate: [你的learning rate]
+- Learning Rate: 1e-4
 - Optimizer: AdamW
 - Loss Function: DiceCE Loss (加權)
-- Epochs: [你訓練的epoch數]
+- Epochs: 350
 
 ## 📌 注意事項
 - 需要足夠的GPU記憶體
-- 訓練時間約 [你的訓練時間] 小時
+- 訓練時間約 2-3小時
 - 建議使用Colab Pro以獲得更穩定的GPU資源
 
 ## 🙏 致謝
 本專案基於AI Cup 2025官方baseline進行修改與優化。
-
-## 📧 聯絡方式
-如有問題請聯絡：[你的email或其他聯絡方式，可選]
