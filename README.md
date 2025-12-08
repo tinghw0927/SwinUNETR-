@@ -28,9 +28,9 @@
 
 | Notebook | 功能 | 預估時間 | 連結 |
 |----------|------|----------|------|
-| 01_Training.ipynb | 完整訓練流程 | 8-12 小時 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hJoVW_R9V2AZV8dxKHIJa5ZZd9ISPoNa?usp=sharing) |
-| 02_Inference.ipynb | 模型推論預測 | 30-60 秒/案例 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D3AxLantrA6Wr_SJmFd25NCCEONk9i64?usp=sharing) |
-| 03_Hyperparameter_Search.ipynb | Optuna 超參數搜尋 | 6-15 小時 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KAJwfxDyMvw0OLZB3CLx9hirNRbkR-yr?usp=sharing) |
+| Swin UNET 訓練整理.ipynb | 完整訓練流程 | 8-12 小時 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hJoVW_R9V2AZV8dxKHIJa5ZZd9ISPoNa?usp=sharing) |
+| Swin UNET 推論整理.ipynb | 模型推論預測 | 30-60 秒/案例 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D3AxLantrA6Wr_SJmFd25NCCEONk9i64?usp=sharing) |
+| Swin optuna_Search.ipynb | Optuna 超參數搜尋 | 6-15 小時 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KAJwfxDyMvw0OLZB3CLx9hirNRbkR-yr?usp=sharing) |
 
 ---
 
