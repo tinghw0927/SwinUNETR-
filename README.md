@@ -38,7 +38,7 @@
 
 ### 硬體需求
 ```
-GPU: NVIDIA A100 (40GB) 或同等級 GPU
+GPU: NVIDIA L4 (40GB) 或更高等級 GPU
 記憶體: 至少 16GB RAM
 儲存空間: 至少 50GB 可用空間
 ```
