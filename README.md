@@ -82,25 +82,8 @@ Ray 2.5.0
 
 ---
 
-## 📚 參考文獻
-```bibtex
-@inproceedings{hatamizadeh2022swin,
-  title={Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images},
-  author={Hatamizadeh, Ali and Nath, Vishwesh and Tang, Yucheng and Yang, Dong and Roth, Holger R and Xu, Daguang},
-  booktitle={Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries},
-  pages={272--284},
-  year={2022},
-  organization={Springer}
-}
 
-@inproceedings{akiba2019optuna,
-  title={Optuna: A next-generation hyperparameter optimization framework},
-  author={Akiba, Takuya and Sano, Shotaro and Yanase, Toshihiko and Ohta, Takeru and Koyama, Masanori},
-  booktitle={Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery \& data mining},
-  pages={2623--2631},
-  year={2019}
-}
-```
+
 
 ---
 
